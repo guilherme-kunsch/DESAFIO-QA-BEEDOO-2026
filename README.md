@@ -1,19 +1,29 @@
 ### Qual você acredita ser o objetivo da aplicação?
 
-O principal objetivo da aplicação é testar a usabilidade e o funcionamento simples de gerenciamento de cursos, onde permite o usuário ter interação com os componentes disponiveis, como por exemplo: botões, inputs, cadastros e etc.
+O principal objetivo da aplicação é permitir o gerenciamento básico de cursos.
+Através dela, o usuário pode interagir com os componentes da interface, como botões, campos de entrada e formulários, possibilitando o cadastro, visualização e exclusão de cursos.
 
 ### Quais são os principais fluxos disponíveis
+
+Os principais fluxos identificados na aplicação são:
 
 - Cadastro de cursos;
 - Listagem de cursos;
 - Exclusão de cursos;
 
+Onde representam as principais funcionalidades do sistema.
+
 ### Quais pontos do sistema você considera mais críticos para teste?
 
-Separei em niveis de criticidade, sendo 1 para alta, 2 para médio e 3 para baixo.
+Separei em niveis de criticidade, considerando o funcionamento da aplicação:
 
+Criticidade Alta
 1 - Cadastro de cursos;
+
+Criticidade Média
 2 - Exclusão de cursos;
+
+Criticidade Baixa
 3 - Listagem de cursos
 
 ### Cenários de testes
