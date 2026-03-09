@@ -18,13 +18,13 @@ Onde representam as principais funcionalidades do sistema.
 Separei em niveis de criticidade, considerando o funcionamento da aplicação:
 
 Criticidade Alta
-1 - Cadastro de cursos;
+1 - Cadastro de cursos. Pois envolve a validação e o envio das informações corretas para a API.
 
 Criticidade Média
-2 - Exclusão de cursos;
+2 - Exclusão de cursos. Onde o usuário poderá realizar a exclusão de um curso, caso tenha enviado alguma informação inválida/errada.
 
 Criticidade Baixa
-3 - Listagem de cursos
+3 - Listagem de cursos. Mesmo apresentando os cursos cadastrados, não afeta tanto no funcionamento da aplicação, pois o usuário só visualizará o que foi cadastrado.
 
 ### Cenários de testes
 
