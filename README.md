@@ -29,3 +29,7 @@ Criticidade Baixa
 ### Cenários de testes
 
 - https://docs.google.com/spreadsheets/d/1-bBi0RZhFQJw--JuNgw6hJTaGRzekP_X2b0zSeuxhsQ/edit?usp=sharing
+
+### Drive contendo evidências dos testes
+
+- https://docs.google.com/document/d/1JAkdv-w_82AodzDrr73RbnrqRkCXrqp3ORNpKZdJwX0/edit?tab=t.0
